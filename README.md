@@ -11,11 +11,11 @@
 
 ### 1. Introduction
 
-- #### What is Git?
+#### What is Git?
 
 Git is a distributed version control system (VCS) that allows developers to track changes in their codebase over time. It is designed to be fast, efficient, and scalable, enabling collaboration among multiple developers on the same project.
 
-- #### What is Github?
+#### 2. What is Github?
 
 GitHub is a web-based platform built on top of Git that provides additional features for collaboration, such as hosting repositories, managing issues, and facilitating pull requests. It acts as a central hub for developers to store, share, and collaborate on code.
 
