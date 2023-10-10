@@ -19,6 +19,9 @@ Git is a distributed version control system (VCS) that allows developers to trac
 
 GitHub is a web-based platform built on top of Git that provides additional features for collaboration, such as hosting repositories, managing issues, and facilitating pull requests. It acts as a central hub for developers to store, share, and collaborate on code.
 
+
+#### Why to use Git and Github?
+
 - **Version Control**: Git helps track changes in code, making it easier to identify and resolve issues.
 - **Collaboration**: GitHub enables multiple developers to work on the same project simultaneously, offering features like branching and merging.
 - **Backup and Recovery**: Code stored on GitHub serves as a backup, ensuring data integrity.
