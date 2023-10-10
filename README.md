@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Introduction]('###%201.%20Introduction')
+1. [Introduction](###%201.%20Introduction)
     - What is Git?
     - What is Github?
     - Why to use Git and Github?
